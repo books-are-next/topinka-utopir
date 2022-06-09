@@ -1,5 +1,6 @@
 ---
+title: SNOPKY KE SPÁLENÍ
 contentType: prose
 ---
 
-# SNOPKY KE SPÁLENÍ
+

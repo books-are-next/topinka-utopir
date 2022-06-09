@@ -1,8 +1,7 @@
 ---
+title: MIODRAG
 contentType: prose
 ---
-
-# MIODRAG
 
 „Má slova jsou střežena                 
 lidským hlasem —  
