@@ -1,10 +1,11 @@
 ---
+title: ''
 contentType: prose
 ---
 
 ## má zimouhřivá,
 
-             po tmě spíš. Střípky v očích,  
+             **po tmě** spíš. Střípky v očích,  
 v hrdle zmrazky, ve vlasech praští, za  
 nehty třísky.  
              Čerti hoblují podlahu, ústa  
@@ -17,5 +18,5 @@ jich jízlivůstek, a na mně to zůstává.
 V dlaních spí had, beze studu. Napříč  
 a bez ustání.  
              V klíně ti hřadují uštvaní  
-krahujci. Kam zůstanu, tam potmě spíš,  
+krahujci. Kam zůstanu, tam **potmě** spíš,  
 až kamsi k limbu.
