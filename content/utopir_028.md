@@ -1,11 +1,11 @@
 ---
-title: ''
+title: '* * *'
 contentType: prose
 ---
 
-## \* \* \*
+<section>
 
-                                                            Slzičky, bukvice,  
+Slzičky, bukvice,  
 rybí očka, hřebíky, kameny a stromy,  
 v dešti.  
                                                                       Straka  
@@ -31,3 +31,5 @@ od rána podhrabat dovnitř/.
                                Trámy jsou uloženy příliš nízko,  
 prkna praskají.                                       Režná sukně  
 se rozvírá,           dřevěné lůžko je rozťato.
+
+</section>

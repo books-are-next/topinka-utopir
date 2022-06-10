@@ -1,10 +1,9 @@
 ---
-title: ''
+title: "a\_ostrévky,  z\_jakého dřeva jsou ostrévky"
 contentType: prose
 ---
 
-## a ostrévky,  
-z jakého dřeva jsou ostrévky
+<section>
 
 Blesk sežeh ženám drsné vlasy  
 a déšť jim oči vyplavil,  
@@ -32,3 +31,5 @@ Zbývá ti skrýt se za kmeny;
 křídla tam tlučou jen do tváří,  
 a suchý skřípot dřeva zastře  
 zarytě vyschlé prameny.
+
+</section>

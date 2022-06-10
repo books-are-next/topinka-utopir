@@ -1,10 +1,9 @@
 ---
-title: ''
+title: "a\_vyprávěl Miodrag básník,  ještě než spustili truhlu"
 contentType: prose
 ---
 
-## a vyprávěl Miodrag básník,  
-ještě než spustili truhlu
+<section>
 
 Ubližován, ukřižován,  
                              ohryzáván ještěrkami,  
@@ -123,3 +122,5 @@ loni s tím klenovým klínem, letos,
 
                              Pomalu odcházel;  
                 s lískovými pruty.
+
+</section>
