@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "ydunij\_\_\_\_ jinudy"
 contentType: prose
 ---
 
-## ydunij     jinudy
+<section>
 
 uonijark uoltěvs daN     Nad světlou krajinou  
 tsířp is udub     budu si příst  
@@ -24,3 +24,5 @@ zyk ývazer v     v rezavý kyz
 tzýrh ej enčaz     začne je hrýzt  
 ilaksíps is oc ešv     vše co si spískali  
 tsíns is ísum     musí si sníst
+
+</section>

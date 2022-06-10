@@ -1,9 +1,9 @@
 ---
-title: ''
+title: obřad smáčení utopenců
 contentType: prose
 ---
 
-## obřad smáčení utopenců
+<section>
 
 V průvodu v spřežení máry jdou  
 zachmuřené tváře  
@@ -24,3 +24,5 @@ Děvčátka s agnustkem na krku
 drásají dlaněmi kámen  
 Hra končí   Chůva je za ruku  
 odvádí k stínadlu   Amen
+
+</section>

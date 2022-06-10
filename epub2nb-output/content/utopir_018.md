@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "z\_úhrobí"
 contentType: prose
 ---
 
-## z úhrobí
+<section>
 
 Hloubím ti hrob a říkám: „Ruce.“  
 — „Tam. Pasou se trpce.“
@@ -22,3 +22,5 @@ Za rzí. — Prosíš pod drnem. „Nedrásej dásně!“
 
 Semo tamo plašíš stesk. —  
 Co noha nohu. „Pryč!“ — Splavují štěrk z cest.
+
+</section>

@@ -1,16 +1,16 @@
 ---
-title: ''
+title: na šlachtu
 contentType: prose
 ---
 
-## na šlachtu
+<section>
 
-### 1
+## 1
 
 Navečer nakrmiv havrany  
 potápím puklé jidášky
 
-### 2
+## 2
 
 Prašivci pijí přes hrot nože  
 půst začíná  
@@ -24,7 +24,7 @@ na stráni krávy střečkují
 chrtům chrastí šňůry  
 bzíkalky jsou v louži
 
-### 3
+## 3
 
 Hou, vranky chřestavé  
                                             houžví do žeber  
@@ -46,13 +46,13 @@ Oči se klubají
               hou, zkřehlé skořápky  
                             hajdy na kutě
 
-### 4
+## 4
 
 Loužňáci leží na větru,  
 tma jako v pytli;  
                                 /šup s pytlem do pece!/.
 
-### 5
+## 5
 
 Vši zebou  
 otepi chrastí  
@@ -77,3 +77,5 @@ holota lotrovská
 Škvíra za škvírou  
 oči lezou z důlků  
 jako když utne
+
+</section>

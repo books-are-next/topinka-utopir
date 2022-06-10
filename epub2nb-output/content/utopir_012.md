@@ -1,10 +1,9 @@
 ---
-title: ''
+title: jitření ran  dost blízko úst
 contentType: prose
 ---
 
-## jitření ran  
-dost blízko úst
+<section>
 
 Jak přiznám sněhu dávný hřích  
 kam ústa dát   kam ústa dát  
@@ -25,3 +24,5 @@ Nač házíš písek po ptácích
 nemáš kde spát, hráz pustá  
 Snímáš srp dřív než spadne sníh  
 a ostýcháš se skrýt ústa
+
+</section>

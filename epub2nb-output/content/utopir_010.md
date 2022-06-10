@@ -1,9 +1,9 @@
 ---
-title: ''
+title: klinkání umíráčku
 contentType: prose
 ---
 
-## klinkání umíráčku
+<section>
 
 Zemřely stařenky  
 zimomřivé mřenky  
@@ -22,3 +22,5 @@ bojí se teslice
 Koně už hrabou  
 uprostřed světnice  
 zasychá třeslice
+
+</section>

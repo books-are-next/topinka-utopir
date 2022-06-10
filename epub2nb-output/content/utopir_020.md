@@ -1,11 +1,9 @@
 ---
-title: ''
+title: — máme společnou cestu,  promluvil Miodrag básník  cestou na hřbitov
 contentType: prose
 ---
 
-## — máme společnou cestu,  
-promluvil Miodrag básník  
-cestou na hřbitov
+<section>
 
 — Kdysi tu rostl hladýš.  
                              Ale to je již dávno.  
@@ -98,3 +96,5 @@ pálím své básně vždy když je potřebí.
 — Znáš je, každý z nich.
 
 — Ano.
+
+</section>
