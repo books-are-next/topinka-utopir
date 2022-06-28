@@ -1,6 +1,6 @@
 ---
 title: jitření ran  dost blízko úst
-contentType: prose
+contentType: poetry
 ---
 
 <section>

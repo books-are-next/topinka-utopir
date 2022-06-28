@@ -1,6 +1,6 @@
 ---
 title: má zimouhřivá,
-contentType: prose
+contentType: poetry
 ---
 
 <section>

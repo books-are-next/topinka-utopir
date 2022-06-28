@@ -1,6 +1,6 @@
 ---
 title: "ydunij\_\_\_\_ jinudy"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

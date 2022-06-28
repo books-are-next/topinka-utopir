@@ -1,6 +1,6 @@
 ---
 title: "a\_ostrévky,  z\_jakého dřeva jsou ostrévky"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

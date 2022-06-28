@@ -1,6 +1,6 @@
 ---
 title: zaříkání slov
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -34,9 +34,9 @@ stíny tě stínají a stud studí.
 Budu tě trýznit, že trní se ustrne,  
 budu ti zaříkat…
 
-                                    — Střez se, babo, střez,  
+             — Střez se, babo, střez,  
 přijde na tě běs,  
-halelujah!                 — zasykla Zenka jako včera  
+halelujah!            — zasykla Zenka jako včera  
 a jezinka zmizela. Kolem už zase  
 siváčka nebylo.
 

@@ -1,6 +1,6 @@
 ---
 title: "z\_úhrobí"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

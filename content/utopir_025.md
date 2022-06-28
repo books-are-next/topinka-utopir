@@ -1,6 +1,6 @@
 ---
 title: na patře křížaly  tiše chrupkají
-contentType: prose
+contentType: poetry
 ---
 
 <section>

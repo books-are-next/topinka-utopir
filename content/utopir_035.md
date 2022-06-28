@@ -1,6 +1,6 @@
 ---
 title: kikimora
-contentType: prose
+contentType: poetry
 ---
 
 <section>

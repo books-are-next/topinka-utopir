@@ -1,6 +1,6 @@
 ---
 title: až do rána bílého
-contentType: prose
+contentType: poetry
 ---
 
 <section>

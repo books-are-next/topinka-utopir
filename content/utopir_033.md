@@ -1,6 +1,6 @@
 ---
 title: pláč na krajíčku chleba
-contentType: prose
+contentType: poetry
 ---
 
 <section>

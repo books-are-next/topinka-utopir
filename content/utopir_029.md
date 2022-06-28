@@ -1,6 +1,6 @@
 ---
 title: /vstříc lískání/
-contentType: prose
+contentType: poetry
 ---
 
 <section>

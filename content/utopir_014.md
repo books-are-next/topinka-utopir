@@ -1,6 +1,6 @@
 ---
 title: obřad smáčení utopenců
-contentType: prose
+contentType: poetry
 ---
 
 <section>

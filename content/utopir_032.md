@@ -1,6 +1,6 @@
 ---
 title: hle, přicházejí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
