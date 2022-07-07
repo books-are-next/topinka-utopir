@@ -397,7 +397,7 @@
                 "devoured": false,
                 "hiddenTitle": false,
                 "children": [],
-                "title": "* * *"
+                "title": "\* \* \*"
               },
               {
                 "filename": "utopir_029.md",
@@ -683,7 +683,7 @@
         "xhtml": "utopir_027.html"
       },
       {
-        "titleSuggest": "* * *",
+        "titleSuggest": "\* \* \*",
         "subtitleSuggest": "",
         "filename": "utopir_028.md",
         "xhtml": "utopir_028.html"
