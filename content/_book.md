@@ -46,7 +46,7 @@ readingOrder:
   - utopir_033.html
   - utopir_034.html
   - utopir_035.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
