@@ -1,6 +1,6 @@
 ---
 title: CHRTI SMRTI
-contentType: prose
+contentType: poetry
 ---
 
 

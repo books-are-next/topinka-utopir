@@ -1,11 +1,11 @@
 ---
 title: MIODRAG
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-„Má slova jsou střežena                 
+„Má slova jsou střežena              
 lidským hlasem —  
 jen jím mohou být osvobozena“
 

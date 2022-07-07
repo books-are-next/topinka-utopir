@@ -1,6 +1,6 @@
 ---
 title: ovšem, za bezjitřních nocí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

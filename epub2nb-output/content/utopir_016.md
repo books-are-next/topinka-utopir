@@ -1,6 +1,6 @@
 ---
 title: až zase příště přijdeš
-contentType: prose
+contentType: poetry
 ---
 
 <section>

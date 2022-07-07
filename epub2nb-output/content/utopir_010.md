@@ -1,6 +1,6 @@
 ---
 title: klinkání umíráčku
-contentType: prose
+contentType: poetry
 ---
 
 <section>

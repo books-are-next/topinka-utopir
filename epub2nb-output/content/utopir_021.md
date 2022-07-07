@@ -1,6 +1,6 @@
 ---
 title: pak začal zpívat  Miodrag básník
-contentType: prose
+contentType: poetry
 ---
 
 <section>

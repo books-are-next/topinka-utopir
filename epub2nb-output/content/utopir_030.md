@@ -1,6 +1,6 @@
 ---
 title: na šlachtu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -27,30 +27,30 @@ bzíkalky jsou v louži
 ## 3
 
 Hou, vranky chřestavé  
-                                            houžví do žeber  
-              hou, klusky povsinožky  
-                            hopkavě do roští
+             houžví do žeber  
+             hou, klusky povsinožky  
+             hopkavě do roští
 
 Drnohryz zapřahá  
-                                            přizáblé stracenušky  
-              drápavci s pruty  
-                            tlučou špačky
+             přizáblé stracenušky  
+             drápavci s pruty  
+             tlučou špačky
 
 Vrankám se střemhlav  
-                                            zapalují lýtka  
-              blešky nabíledni  
-                            berou roha
+             zapalují lýtka  
+             blešky nabíledni  
+             berou roha
 
 Oči se klubají  
-                                            bič škobrtá  
-              hou, zkřehlé skořápky  
-                            hajdy na kutě
+                         bič škobrtá  
+             hou, zkřehlé skořápky  
+             hajdy na kutě
 
 ## 4
 
 Loužňáci leží na větru,  
 tma jako v pytli;  
-                                /šup s pytlem do pece!/.
+             /šup s pytlem do pece!/.
 
 ## 5
 

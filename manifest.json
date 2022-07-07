@@ -1,0 +1,754 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Utopír",
+  "author": "Miloslav Topinka",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "topinka-utopir-88c6809",
+  "revision": "88c6809",
+  "readingOrder": [
+    "promo.html",
+    "utopir_005.html",
+    "utopir_006.html",
+    "utopir_007.html",
+    "utopir_008.html",
+    "utopir_009.html",
+    "utopir_010.html",
+    "utopir_011.html",
+    "utopir_012.html",
+    "utopir_013.html",
+    "utopir_014.html",
+    "utopir_015.html",
+    "utopir_016.html",
+    "utopir_017.html",
+    "utopir_018.html",
+    "utopir_019.html",
+    "utopir_020.html",
+    "utopir_021.html",
+    "utopir_022.html",
+    "utopir_023.html",
+    "utopir_024.html",
+    "utopir_025.html",
+    "utopir_026.html",
+    "utopir_027.html",
+    "utopir_028.html",
+    "utopir_029.html",
+    "utopir_030.html",
+    "utopir_031.html",
+    "utopir_032.html",
+    "utopir_033.html",
+    "utopir_034.html",
+    "utopir_035.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 07 2022 09:27:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657186054236
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "utopir_005.html",
+      "toc": []
+    },
+    {
+      "title": "Utopír",
+      "file": "utopir_005.html",
+      "words": 20,
+      "chars": 113,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "utopir_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utopír",
+      "file": "utopir_006.html",
+      "words": 12,
+      "chars": 61,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "utopir_005.html",
+      "next": "utopir_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "SNOPKY KE SPÁLENÍ",
+      "file": "utopir_007.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "utopir_006.html",
+      "next": "utopir_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SNOPKY KE SPÁLENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ydunij     jinudy",
+      "file": "utopir_008.html",
+      "words": 96,
+      "chars": 575,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 4,
+      "prev": "utopir_007.html",
+      "next": "utopir_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ydunij     jinudy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "až do rána bílého",
+      "file": "utopir_009.html",
+      "words": 49,
+      "chars": 246,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "utopir_008.html",
+      "next": "utopir_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "až do rána bílého",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "klinkání umíráčku",
+      "file": "utopir_010.html",
+      "words": 39,
+      "chars": 233,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "utopir_009.html",
+      "next": "utopir_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "klinkání umíráčku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "otesky",
+      "file": "utopir_011.html",
+      "words": 53,
+      "chars": 258,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 7,
+      "prev": "utopir_010.html",
+      "next": "utopir_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "otesky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "jitření ran  dost blízko úst",
+      "file": "utopir_012.html",
+      "words": 85,
+      "chars": 456,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 8,
+      "prev": "utopir_011.html",
+      "next": "utopir_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "jitření ran  dost blízko úst",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "a ostrévky,  z jakého dřeva jsou ostrévky",
+      "file": "utopir_013.html",
+      "words": 117,
+      "chars": 668,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 9,
+      "prev": "utopir_012.html",
+      "next": "utopir_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "a ostrévky,  z jakého dřeva jsou ostrévky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "obřad smáčení utopenců",
+      "file": "utopir_014.html",
+      "words": 69,
+      "chars": 390,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 10,
+      "prev": "utopir_013.html",
+      "next": "utopir_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "obřad smáčení utopenců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "zaříkání slov",
+      "file": "utopir_015.html",
+      "words": 163,
+      "chars": 897,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 11,
+      "prev": "utopir_014.html",
+      "next": "utopir_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "zaříkání slov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "až zase příště přijdeš",
+      "file": "utopir_016.html",
+      "words": 205,
+      "chars": 1082,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 12,
+      "prev": "utopir_015.html",
+      "next": "utopir_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "až zase příště přijdeš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ovšem, za bezjitřních nocí",
+      "file": "utopir_017.html",
+      "words": 58,
+      "chars": 327,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 13,
+      "prev": "utopir_016.html",
+      "next": "utopir_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ovšem, za bezjitřních nocí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "z úhrobí",
+      "file": "utopir_018.html",
+      "words": 82,
+      "chars": 444,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "utopir_017.html",
+      "next": "utopir_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "z úhrobí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MIODRAG",
+      "file": "utopir_019.html",
+      "words": 16,
+      "chars": 101,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 15,
+      "prev": "utopir_018.html",
+      "next": "utopir_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MIODRAG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "— máme společnou cestu,  promluvil Miodrag básník  cestou na hřbitov",
+      "file": "utopir_020.html",
+      "words": 345,
+      "chars": 1922,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 16,
+      "prev": "utopir_019.html",
+      "next": "utopir_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "— máme společnou cestu,  promluvil Miodrag básník  cestou na hřbitov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "pak začal zpívat  Miodrag básník",
+      "file": "utopir_021.html",
+      "words": 101,
+      "chars": 530,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 17,
+      "prev": "utopir_020.html",
+      "next": "utopir_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "pak začal zpívat  Miodrag básník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "a vyprávěl Miodrag básník,  ještě než spustili truhlu",
+      "file": "utopir_022.html",
+      "words": 520,
+      "chars": 2965,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 18,
+      "prev": "utopir_021.html",
+      "next": "utopir_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "a vyprávěl Miodrag básník,  ještě než spustili truhlu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V ZÁLUNÍ",
+      "file": "utopir_023.html",
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 19,
+      "prev": "utopir_022.html",
+      "next": "utopir_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V ZÁLUNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "má zimouhřivá,",
+      "file": "utopir_024.html",
+      "words": 85,
+      "chars": 459,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 20,
+      "prev": "utopir_023.html",
+      "next": "utopir_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "má zimouhřivá,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "na patře křížaly  tiše chrupkají",
+      "file": "utopir_025.html",
+      "words": 64,
+      "chars": 402,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 21,
+      "prev": "utopir_024.html",
+      "next": "utopir_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "na patře křížaly  tiše chrupkají",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "hadohlasí",
+      "file": "utopir_026.html",
+      "words": 49,
+      "chars": 266,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "utopir_025.html",
+      "next": "utopir_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "hadohlasí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "POMETLO K PECI",
+      "file": "utopir_027.html",
+      "words": 18,
+      "chars": 93,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 23,
+      "prev": "utopir_026.html",
+      "next": "utopir_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POMETLO K PECI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "utopir_028.html",
+      "words": 126,
+      "chars": 850,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 24,
+      "prev": "utopir_027.html",
+      "next": "utopir_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "/vstříc lískání/",
+      "file": "utopir_029.html",
+      "words": 51,
+      "chars": 311,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 25,
+      "prev": "utopir_028.html",
+      "next": "utopir_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "/vstříc lískání/",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "na šlachtu",
+      "file": "utopir_030.html",
+      "words": 148,
+      "chars": 830,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 26,
+      "prev": "utopir_029.html",
+      "next": "utopir_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "na šlachtu",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CHRTI SMRTI",
+      "file": "utopir_031.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 27,
+      "prev": "utopir_030.html",
+      "next": "utopir_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CHRTI SMRTI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "hle, přicházejí",
+      "file": "utopir_032.html",
+      "words": 91,
+      "chars": 503,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 28,
+      "prev": "utopir_031.html",
+      "next": "utopir_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "hle, přicházejí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "pláč na krajíčku chleba",
+      "file": "utopir_033.html",
+      "words": 94,
+      "chars": 495,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 29,
+      "prev": "utopir_032.html",
+      "next": "utopir_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "pláč na krajíčku chleba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "/proč zamřelci/",
+      "file": "utopir_034.html",
+      "words": 80,
+      "chars": 461,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 30,
+      "prev": "utopir_033.html",
+      "next": "utopir_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "/proč zamřelci/",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "kikimora",
+      "file": "utopir_035.html",
+      "words": 83,
+      "chars": 457,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 31,
+      "prev": "utopir_034.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "kikimora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 131,
+      "chars": 861,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "utopir_035.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3062,
+      "chars": 17323,
+      "ideas": 764
+    },
+    "chapters": {
+      "words": 2926,
+      "chars": 16431,
+      "ideas": 745
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 title: hadohlasí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

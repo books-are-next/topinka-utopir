@@ -1,6 +1,6 @@
 ---
 title: SNOPKY KE SPÁLENÍ
-contentType: prose
+contentType: poetry
 ---
 
 

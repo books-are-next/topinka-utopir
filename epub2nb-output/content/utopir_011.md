@@ -1,6 +1,6 @@
 ---
 title: otesky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
