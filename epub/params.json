@@ -25,12 +25,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nmlpverse",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nmlpdopisbez1radkui\nmlptitulkaprekladatel",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
-      "ignore": "",
-      "centered": ".*uprostred.*",
-      "verse": "MLP.verse.*"
+      "ignore": ""
     },
     "structure": [
       {
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Vranky na pranýři..."
+            "title": "Vranky na pranýři...",
+            "children": []
           },
           {
             "filename": "utopir_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "utopir_007.md",
@@ -122,6 +122,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Snopky ke spálení",
             "children": [
               {
                 "filename": "utopir_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "ydunij     jinudy"
+                "title": "ydunij     jinudy",
+                "children": []
               },
               {
                 "filename": "utopir_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "až do rána bílého"
+                "title": "až do rána bílého",
+                "children": []
               },
               {
                 "filename": "utopir_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "klinkání umíráčku"
+                "title": "klinkání umíráčku",
+                "children": []
               },
               {
                 "filename": "utopir_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "otesky"
+                "title": "otesky",
+                "children": []
               },
               {
                 "filename": "utopir_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "jitření ran  dost blízko úst"
+                "title": "jitření ran  dost blízko úst",
+                "children": []
               },
               {
                 "filename": "utopir_013.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "a ostrévky,  z jakého dřeva jsou ostrévky"
+                "title": "a ostrévky,  z jakého dřeva jsou ostrévky",
+                "children": []
               },
               {
                 "filename": "utopir_014.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "obřad smáčení utopenců"
+                "title": "obřad smáčení utopenců",
+                "children": []
               },
               {
                 "filename": "utopir_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "zaříkání slov"
+                "title": "zaříkání slov",
+                "children": []
               },
               {
                 "filename": "utopir_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "až zase příště přijdeš"
+                "title": "až zase příště přijdeš",
+                "children": []
               },
               {
                 "filename": "utopir_017.md",
@@ -250,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "ovšem, za bezjitřních nocí"
+                "title": "ovšem, za bezjitřních nocí",
+                "children": []
               },
               {
                 "filename": "utopir_018.md",
@@ -263,11 +264,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "z úhrobí"
+                "title": "z úhrobí",
+                "children": []
               }
-            ],
-            "title": "Snopky ke spálení"
+            ]
           },
           {
             "filename": "utopir_019.md",
@@ -279,6 +279,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Miodrag",
             "children": [
               {
                 "filename": "utopir_020.md",
@@ -290,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "— máme společnou cestu,  promluvil Miodrag básník  cestou na hřbitov"
+                "title": "— máme společnou cestu,  promluvil Miodrag básník  cestou na hřbitov",
+                "children": []
               },
               {
                 "filename": "utopir_021.md",
@@ -303,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "pak začal zpívat  Miodrag básník"
+                "title": "pak začal zpívat  Miodrag básník",
+                "children": []
               },
               {
                 "filename": "utopir_022.md",
@@ -316,11 +317,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "a vyprávěl Miodrag básník,  ještě než spustili truhlu"
+                "title": "a vyprávěl Miodrag básník,  ještě než spustili truhlu",
+                "children": []
               }
-            ],
-            "title": "Miodrag"
+            ]
           },
           {
             "filename": "utopir_023.md",
@@ -332,6 +332,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "V záluní",
             "children": [
               {
                 "filename": "utopir_024.md",
@@ -343,8 +344,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "má zimouhřivá,"
+                "title": "má zimouhřivá,",
+                "children": []
               },
               {
                 "filename": "utopir_025.md",
@@ -356,8 +357,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "na patře křížaly  tiše chrupkají"
+                "title": "na patře křížaly  tiše chrupkají",
+                "children": []
               },
               {
                 "filename": "utopir_026.md",
@@ -369,11 +370,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "hadohlasí"
+                "title": "hadohlasí",
+                "children": []
               }
-            ],
-            "title": "V záluní"
+            ]
           },
           {
             "filename": "utopir_027.md",
@@ -385,6 +385,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Pometlo k peci",
             "children": [
               {
                 "filename": "utopir_028.md",
@@ -396,8 +397,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "\\* \\* \\*"
+                "title": "* * *",
+                "children": []
               },
               {
                 "filename": "utopir_029.md",
@@ -409,8 +410,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "/vstříc lískání/"
+                "title": "/vstříc lískání/",
+                "children": []
               },
               {
                 "filename": "utopir_030.md",
@@ -422,11 +423,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "na šlachtu"
+                "title": "na šlachtu",
+                "children": []
               }
-            ],
-            "title": "Pometlo k peci"
+            ]
           },
           {
             "filename": "utopir_031.md",
@@ -438,6 +438,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Chrti smrti",
             "children": [
               {
                 "filename": "utopir_032.md",
@@ -449,8 +450,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "hle, přicházejí"
+                "title": "hle, přicházejí",
+                "children": []
               },
               {
                 "filename": "utopir_033.md",
@@ -462,8 +463,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "pláč na krajíčku chleba"
+                "title": "pláč na krajíčku chleba",
+                "children": []
               },
               {
                 "filename": "utopir_034.md",
@@ -475,8 +476,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "/proč zamřelci/"
+                "title": "/proč zamřelci/",
+                "children": []
               },
               {
                 "filename": "utopir_035.md",
@@ -488,11 +489,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "kikimora"
+                "title": "kikimora",
+                "children": []
               }
-            ],
-            "title": "Chrti smrti"
+            ]
           },
           {
             "filename": "utopir_036.md",
@@ -683,7 +683,7 @@
         "xhtml": "utopir_027.html"
       },
       {
-        "titleSuggest": "\\* \\* \\*",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "utopir_028.md",
         "xhtml": "utopir_028.html"
@@ -821,6 +821,6 @@
       "user": "books-are-next",
       "repo": "topinka-utopir"
     },
-    "generatedAt": 1654948966435
+    "generatedAt": 1657185971325
   }
 }
