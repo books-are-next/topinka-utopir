@@ -129,7 +129,7 @@ tocBase:
         hiddenTitle: false
         children:
           - link: utopir_028.html
-            title: \* \* \*
+            title: '* * *'
             hiddenTitle: false
           - link: utopir_029.html
             title: /vstříc lískání/
