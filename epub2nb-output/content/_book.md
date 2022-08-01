@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2603-4
 readingOrder:
   - promo.html
   - utopir_005.html
