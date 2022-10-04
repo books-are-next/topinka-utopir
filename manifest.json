@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "topinka-utopir-8ba819c",
-  "revision": "8ba819c",
+  "identifier": "topinka-utopir-fb86354",
+  "revision": "fb86354",
   "readingOrder": [
     "promo.html",
     "utopir_005.html",
@@ -46,8 +46,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:06:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640361206
+    "date": "Tue Oct 04 2022 16:53:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902424508
   },
   "documents": [
     {
@@ -721,9 +721,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
+      "words": 134,
       "chars": 899,
-      "ideas": 16,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "utopir_035.html",
@@ -741,9 +741,9 @@
   ],
   "totals": {
     "all": {
-      "words": 3066,
+      "words": 3065,
       "chars": 17361,
-      "ideas": 765
+      "ideas": 764
     },
     "chapters": {
       "words": 2926,
